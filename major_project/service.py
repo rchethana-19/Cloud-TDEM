@@ -30,4 +30,4 @@ def evaluate_request(request_data):
 
         "reasons": explanation["reasons"]
 
-    }cd ~/Documents
+    }
